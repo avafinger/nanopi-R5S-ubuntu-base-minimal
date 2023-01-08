@@ -3,6 +3,8 @@
 This is the Ubuntu minimal image with kernel 5.10.110 with CLI (Command Line Interface, no Desktop) for development purposes.
 The OS image is small, unbloated and Lean and Mean, where you can add, remove or change packages as you wish.
 
+![NanoPi R5S](https://raw.githubusercontent.com/avafinger/nanopi-r5s-ubuntu-base-minimal/main/nanopi-r5s.jpg)
+
 **i hope this can be usefull**
 
 
